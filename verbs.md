@@ -2,17 +2,13 @@ Verbs
 =====================
 
 
-Hello, I am your first Markdown document within **StackEdit**[^stackedit]. Don't delete me, I can be helpful. I can be recovered anyway in the `Utils` tab of the <i class="icon-cog"></i> `Settings` dialog.
+Lists of verbs.
 
 ----------
 
 
-Conjugation Pattern
+I. Conjugation Pattern
 ---------
-
-**StackEdit** stores your documents in the browser local storage, which means all your documents are automatically saved locally and are accessible offline.
-
-> **NOTE:** This also means that your documents are not shared between different browsers or computers and that clearing your browser's data may **delete all of them!**
 
 #### <i class="icon-file"></i> A. Simple tenses
 
@@ -22,7 +18,23 @@ Conjugation Pattern
 |               | du            | kommst| kamst         | kämst         | bist gekommen   |
 |               | er/sie/es     | kommt | kam           |  käme         | ist gekommen    |
 
-#### <i class="icon-folder-open"></i> Switch to another document
+#### <i class="icon-folder-open"></i> B. Compound tenses
+
+##### B.1 Active voice
+
+|               |               |Present| Simple Past   | Subjunctive   | Past Participle | 
+| ------------- |:-------------:| -----:|:-------------:|:-------------:|:---------------:|
+| Strong        | ich           | komme | kam           | käme          | bin gekommen    |        
+|               | du            | kommst| kamst         | kämst         | bist gekommen   |
+|               | er/sie/es     | kommt | kam           |  käme         | ist gekommen    |
+
+##### B.2 Passibe voice
+
+|               |               |Present| Simple Past   | Subjunctive   | Past Participle | 
+| ------------- |:-------------:| -----:|:-------------:|:-------------:|:---------------:|
+| Strong        | ich           | komme | kam           | käme          | bin gekommen    |        
+|               | du            | kommst| kamst         | kämst         | bist gekommen   |
+|               | er/sie/es     | kommt | kam           |  käme         | ist gekommen    |
 
 You can list all your local documents and switch from one to another by clicking the <i class="icon-folder-open"></i> button in the navigation bar.
 
