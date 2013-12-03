@@ -1,4 +1,3 @@
-
 Verbs
 =====================
 
@@ -8,16 +7,20 @@ Hello, I am your first Markdown document within **StackEdit**[^stackedit]. Don't
 ----------
 
 
-Documents
+Conjugation Pattern
 ---------
 
 **StackEdit** stores your documents in the browser local storage, which means all your documents are automatically saved locally and are accessible offline.
 
 > **NOTE:** This also means that your documents are not shared between different browsers or computers and that clearing your browser's data may **delete all of them!**
 
-#### <i class="icon-file"></i> Create a document
+#### <i class="icon-file"></i> A. Simple tenses
 
-You can create a new document by clicking the <i class="icon-file"></i> button in the navigation bar. This will switch from the current document to the new one.
+|               |               |Present| Simple Past   | Subjunctive   | Past Participle | 
+| ------------- |:-------------:| -----:|:-------------:|:-------------:|:---------------:|
+| Strong        | ich           | komme | kam           | käme          | bin gekommen    |        
+|               | du            | kommst| kamst         | kämst         | bist gekommen   |
+|               | er/sie/es     | kommt | kam           |  käme         | ist gekommen    |
 
 #### <i class="icon-folder-open"></i> Switch to another document
 
